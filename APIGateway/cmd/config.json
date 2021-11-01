@@ -1,0 +1,5 @@
+{
+   "servnews": "http://localhost:80",
+     
+   "servcomment":"http://localhost:8181"
+}
